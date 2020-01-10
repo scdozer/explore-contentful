@@ -1,13 +1,13 @@
 const contentful = require('contentful-management')
+require('dotenv').config();
 
 const client = contentful.createClient({
   // from Contentful API settings
-  accessToken: 'CFPAT-qMr4QljL5zbiw4MoX-m9CqHj_OmRz-a5873Y3smj1vY'
+  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
 })
 
 //Create content type and fields
-// htpx3sotflll is the Space ID from Contentful API settings
-client.getSpace('htpx3sotflll')
+client.getSpace(process.env.CONTENTFUL_SPACE_ID)
 .then((space) => space.createContentType({
   name: 'Components - From API',
   description: 'Add-on components for Falcon Computers',
