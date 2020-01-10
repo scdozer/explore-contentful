@@ -1,10 +1,12 @@
 const contentful = require('contentful-management')
+require('dotenv').config()
 
 const client = contentful.createClient({
-  accessToken: 'CFPAT-qMr4QljL5zbiw4MoX-m9CqHj_OmRz-a5873Y3smj1vY'
+  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
 })
 
-client.getSpace('htpx3sotflll')
+//Create content type and fields
+client.getSpace(process.env.CONTENTFUL_SPACE_ID)
 .then((space) => space.createEntry('3o2HSFP598DnfmxYuS8eNM', {
   fields: {
     adminName : {

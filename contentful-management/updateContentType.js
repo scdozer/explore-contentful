@@ -2,12 +2,12 @@ const contentful = require('contentful-management')
 
 const client = contentful.createClient({
   // from Contentful API settings
-  accessToken: 'CFPAT-qMr4QljL5zbiw4MoX-m9CqHj_OmRz-a5873Y3smj1vY'
+  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
 })
   
 // Update content type
 // htpx3sotflll is the Space ID from Contentful API settings
-client.getSpace('htpx3sotflll')
+client.getSpace(process.env.CONTENTFUL_SPACE_ID)
 // 36dH7fVW1uzU8vfM5cTQup is the ID of the Content Type from Contentful.
 .then((space) => space.getContentType('36dH7fVW1uzU8vfM5cTQup'))
 .then((contentType) => {

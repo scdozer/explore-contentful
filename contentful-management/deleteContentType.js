@@ -1,10 +1,11 @@
 const contentful = require('contentful-management')
+require('dotenv').config()
 
 const client = contentful.createClient({
-  accessToken: 'CFPAT-qMr4QljL5zbiw4MoX-m9CqHj_OmRz-a5873Y3smj1vY'
+  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
 })
 
-client.getSpace('htpx3sotflll')
+client.getSpace(process.env.CONTENTFUL_SPACE_ID)
 .then((space) => space.getContentType('3KgiAymAK1bU56CgU4KaSn'))
 .then((contentType) => contentType.delete())
 .then(() => console.log('Content type deleted.'))
