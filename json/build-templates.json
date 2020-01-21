@@ -1,0 +1,62 @@
+{
+    "_id": "8Kvw5FPCewYbRRwjw",
+    "name": "Tiki - Z170",
+    "title": "Tiki - Z170",
+    "description": "Intel's price/performance chipset",
+    "techDescription": "Supports up to a 4-Core CPU & 32GB of Dual Channel DDR4 memory.",
+    "priority": {
+        "$numberInt": "100"
+    },
+    "build": "xX6chrZfBRijxo9uZ",
+    "slug": "tiki-z-170",
+    "archived": false
+}
+{
+    "_id": "979A42LdGHvJDaJgz",
+    "name": "Tiki - X99",
+    "title": "Tiki - X99",
+    "description": "Intel's flagship chipset",
+    "techDescription": "Supports up to a 18-Core CPU & 64GB of Dual Channel DDR4 memory.",
+    "priority": {
+        "$numberInt": "99"
+    },
+    "build": "jvhmFyJPyGoY2gLxx",
+    "slug": "tiki-testtemplate",
+    "archived": false
+}
+{
+    "_id": "AJD2Tsa8ukCcFnkD8",
+    "name": "Graphic Design Monster",
+    "title": "Graphic Design Monster",
+    "description": "Awesome for having too many layers in photoshop",
+    "techDescription": "Insane amounts of disc swap space",
+    "priority": {
+        "$numberInt": "2"
+    },
+    "build": "kirNX45y7eTiSP47X",
+    "slug": "graphic-design-monster"
+}
+{
+    "_id": "LsrePAHdr7D4rDYog",
+    "name": "Virtual Reality in a box",
+    "title": "Virtual Reality in a box",
+    "description": "Never deal with real people ever again, enjoy your own worlds",
+    "techDescription": "Poly counts you couldn't dream of",
+    "priority": {
+        "$numberInt": "100"
+    },
+    "build": "kirNX45y7eTiSP47X",
+    "slug": "virtual-reality-in-a-box"
+}
+{
+    "_id": "ZQzckQuEpMk8MyE3t",
+    "name": "First Person Sharp Shooter",
+    "title": "First Person Sharp Shooter",
+    "description": "Insane frame rates for sniping headshots across dusty maps",
+    "techDescription": "Low ping high value targeting",
+    "priority": {
+        "$numberInt": "100"
+    },
+    "build": "kirNX45y7eTiSP47X",
+    "slug": "first-person-sharp-shooter"
+}

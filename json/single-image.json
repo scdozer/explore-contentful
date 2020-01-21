@@ -1,0 +1,98 @@
+{
+    "_id": "DMNCCF9XmBMzZwF9c",
+    "original": {
+        "name": "1080TI_01_1800X1000.jpg",
+        "updatedAt": {
+            "$date": {
+                "$numberLong": "1489685278285"
+            }
+        },
+        "size": {
+            "$numberInt": "102370"
+        },
+        "type": "image/jpeg"
+    },
+    "owner": "STpivvYgg69h7YuX7",
+    "metadata": {
+        "owner": "STpivvYgg69h7YuX7"
+    },
+    "uploadedAt": {
+        "$date": {
+            "$numberLong": "1489685292405"
+        }
+    },
+    "copies": {
+        "imageStore2x": {
+            "name": "1080TI_01_1800X1000.jpg",
+            "type": "image/jpeg",
+            "size": {
+                "$numberInt": "25931"
+            },
+            "key": "1091960892624-1080ti_01_1800x1000@2x.jpg",
+            "updatedAt": {
+                "$date": {
+                    "$numberLong": "1489685294959"
+                }
+            },
+            "createdAt": {
+                "$date": {
+                    "$numberLong": "1489685294959"
+                }
+            }
+        },
+        "imageStoreOriginal": {
+            "name": "1080TI_01_1800X1000.jpg",
+            "type": "image/jpeg",
+            "size": {
+                "$numberInt": "102370"
+            },
+            "key": "1091960893107-1080ti_01_1800x1000-original.jpg",
+            "updatedAt": {
+                "$date": {
+                    "$numberLong": "1489685295425"
+                }
+            },
+            "createdAt": {
+                "$date": {
+                    "$numberLong": "1489685295425"
+                }
+            }
+        },
+        "imageStore1x": {
+            "name": "1080TI_01_1800X1000.jpg",
+            "type": "image/jpeg",
+            "size": {
+                "$numberInt": "8645"
+            },
+            "key": "1091960893113-1080ti_01_1800x1000.jpg",
+            "updatedAt": {
+                "$date": {
+                    "$numberLong": "1489685295421"
+                }
+            },
+            "createdAt": {
+                "$date": {
+                    "$numberLong": "1489685295421"
+                }
+            }
+        },
+        "imageStore4x": {
+            "name": "1080TI_01_1800X1000.jpg",
+            "type": "image/jpeg",
+            "size": {
+                "$numberInt": "102370"
+            },
+            "key": "1091960893140-1080ti_01_1800x1000@4x.jpg",
+            "updatedAt": {
+                "$date": {
+                    "$numberLong": "1489685295423"
+                }
+            },
+            "createdAt": {
+                "$date": {
+                    "$numberLong": "1489685295423"
+                }
+            }
+        }
+    }
+}

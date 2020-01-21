@@ -1,0 +1,514 @@
+{
+    "_id": "4Prqe4XBMqE82vC2s",
+    "name": "Tiki",
+    "type": "desktop",
+    "slug": "tiki",
+    "sliderText": "The Future of PCs",
+    "priority": {
+        "$numberInt": "0"
+    },
+    "startingPrice": {
+        "$numberInt": "2000"
+    },
+    "buildTime": {
+        "$numberInt": "12"
+    },
+    "size": {
+        "weight": {
+            "pounds": {
+                "$numberInt": "11"
+            }
+        },
+        "width": {
+            "$numberInt": "20"
+        },
+        "height": {
+            "$numberInt": "7"
+        },
+        "length": {
+            "$numberInt": "12"
+        }
+    },
+    "shippingMethods": {
+        "options": [
+            {
+                "name": "UPS CA - Ground",
+                "cost": {
+                    "$numberInt": "100"
+                }
+            }
+        ]
+    },
+    "selectionImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1076701146938-windowed_tiki_gtx0180-on-black-720x720-test.jpg",
+    "selectionImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1076701146676-windowed_tiki_gtx0180-on-black-720x720-test@2x.jpg",
+    "selectionImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1076701146928-windowed_tiki_gtx0180-on-black-720x720-test@4x.jpg",
+    "productImage": {
+        "image": "SD7EEtQxAaujAcFeR"
+    },
+    "productImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221078105-1100176594449-tikiat4x.png",
+    "productImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221078155-1100176594449-tikiat4x@2x.png",
+    "productImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221078141-1100176594449-tikiat4x@4x.png",
+    "productSelectNoGlow1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106403566211-tiki-no-glow.png",
+    "productSelectGlow1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106403584287-tiki-glow.png",
+    "productSize": {
+        "weight": {
+            "pounds": {
+                "$numberInt": "0"
+            }
+        },
+        "width": {
+            "$numberInt": "4"
+        },
+        "height": {
+            "$numberDouble": "13.25"
+        },
+        "length": {
+            "$numberDouble": "13.5"
+        }
+    },
+    "subSliderText": "Micro-Tower",
+    "productSelectNoGlow": {
+        "image": "vywmxRduP2KJZMrGP"
+    },
+    "productSelectGlow": {
+        "image": "y2ZgNF97Tk7ksMaPe"
+    },
+    "productSelectNoGlowUrl": "https://falcon-configurator-dev.s3.amazonaws.com/1106405087028-tiki-no-glow-original.png",
+    "productSelectGlowUrl": "https://falcon-configurator-dev.s3.amazonaws.com/1106405091325-tiki-glow-original.png",
+    "learnMoreUrl": "https://www.falcon-nw.com/desktops/tiki"
+}
+    {
+    "_id": "KYfWpZmzZkHSQ4W7d",
+    "name": "DRX",
+    "type": "laptop",
+    "slug": "drx",
+    "sliderText": "17\" Desktop Replacement",
+    "priority": {
+        "$numberInt": "4"
+    },
+    "startingPrice": {
+        "$numberInt": "2800"
+    },
+    "buildTime": {
+        "$numberInt": "28"
+    },
+    "shippingMethods": [
+        {
+            "method": "mWF8sCCGPTNXtveEQ",
+            "cost": {
+                "$numberInt": "123"
+            }
+        },
+        {
+            "method": "nAhuMvRN7PEojLdPY",
+            "cost": {
+                "$numberInt": "234"
+            }
+        },
+        {
+            "method": "nriYHycjaxnQ7eYoM",
+            "cost": {
+                "$numberInt": "345"
+            }
+        }
+    ],
+    "size": {
+        "weight": {
+            "pounds": {
+                "$numberInt": "0"
+            }
+        },
+        "width": {
+            "$numberInt": "0"
+        },
+        "height": {
+            "$numberInt": "0"
+        },
+        "length": {
+            "$numberInt": "0"
+        }
+    },
+    "selectionImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1068250209151-drx_hero-glow-720x720.jpg",
+    "selectionImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1068250209162-drx_hero-glow-720x720@2x.jpg",
+    "selectionImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1068250209174-drx_hero-glow-720x720@4x.jpg",
+    "productImage": {
+        "image": "oGWnckTX7rFhcM3nq"
+    },
+    "productImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221466033-drx-v10-500w.png",
+    "productImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221466086-drx-v10-500w@2x.png",
+    "productImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221466071-drx-v10-500w@4x.png",
+    "productSize": {
+        "weight": {
+            "pounds": {
+                "$numberDouble": "8.6"
+            }
+        },
+        "width": {
+            "$numberDouble": "16.5"
+        },
+        "height": {
+            "$numberDouble": "1.6"
+        },
+        "length": {
+            "$numberDouble": "11.6"
+        }
+    },
+    "subSliderText": "8.6 pounds",
+    "learnMoreUrl": "https://www.falcon-nw.com/laptops/drx/design"
+}
+    {
+    "_id": "dx4RPZXrwkzGRMp2A",
+    "name": "Talon",
+    "type": "desktop",
+    "slug": "talon",
+    "sliderText": "Our Most Versatile System",
+    "priority": {
+        "$numberInt": "1"
+    },
+    "startingPrice": {
+        "$numberInt": "2000"
+    },
+    "buildTime": {
+        "$numberInt": "24"
+    },
+    "shippingMethods": [
+        {
+            "method": "mWF8sCCGPTNXtveEQ",
+            "cost": {
+                "$numberInt": "123"
+            }
+        },
+        {
+            "method": "nAhuMvRN7PEojLdPY",
+            "cost": {
+                "$numberInt": "123"
+            }
+        }
+    ],
+    "size": {
+        "weight": {
+            "pounds": {
+                "$numberInt": "11"
+            }
+        },
+        "width": {
+            "$numberInt": "20"
+        },
+        "height": {
+            "$numberInt": "12"
+        },
+        "length": {
+            "$numberInt": "7"
+        }
+    },
+    "selectionImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1068249100284-talon_hero-glow-720wx720h.jpg",
+    "selectionImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1068249100578-talon_hero-glow-720wx720h@2x.jpg",
+    "selectionImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1068249100309-talon_hero-glow-720wx720h@4x.jpg",
+    "productImage": {
+        "image": "w9eMDFPSaWcYfKEwM"
+    },
+    "productImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221102116-1100176521305-talonat4x.png",
+    "productImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221102152-1100176521305-talonat4x@2x.png",
+    "productImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221102138-1100176521305-talonat4x@4x.png",
+    "productSelectNoGlow1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106404417997-talon-no-glow.png",
+    "productSelectGlow1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106404444906-talon-glow.png",
+    "productSize": {
+        "weight": {
+            "pounds": {
+                "$numberInt": "0"
+            }
+        },
+        "width": {
+            "$numberDouble": "8.2"
+        },
+        "height": {
+            "$numberDouble": "17.5"
+        },
+        "length": {
+            "$numberInt": "19"
+        }
+    },
+    "subSliderText": "Mid-Tower",
+    "productSelectNoGlow": {
+        "image": "W9vLGHHKfB7uT2TKr"
+    },
+    "productSelectGlow": {
+        "image": "8oxR2xx9T9vuCjGAz"
+    },
+    "productSelectNoGlowUrl": "https://falcon-configurator-dev.s3.amazonaws.com/1106404418119-talon-no-glow-original.png",
+    "productSelectGlowUrl": "https://falcon-configurator-dev.s3.amazonaws.com/1106404444983-talon-glow-original.png",
+    "learnMoreUrl": "https://www.falcon-nw.com/desktops/talon/design"
+}
+    {
+    "_id": "n9jbjv5LXMDkcE33b",
+    "name": "TLX",
+    "type": "laptop",
+    "slug": "tlx",
+    "sliderText": "15\" Thin & Light",
+    "priority": {
+        "$numberInt": "5"
+    },
+    "startingPrice": {
+        "$numberInt": "2200"
+    },
+    "buildTime": {
+        "$numberInt": "28"
+    },
+    "shippingMethods": [
+        {
+            "method": "mWF8sCCGPTNXtveEQ",
+            "cost": {
+                "$numberInt": "123"
+            }
+        },
+        {
+            "method": "nAhuMvRN7PEojLdPY",
+            "cost": {
+                "$numberInt": "234"
+            }
+        },
+        {
+            "method": "nriYHycjaxnQ7eYoM",
+            "cost": {
+                "$numberInt": "345"
+            }
+        }
+    ],
+    "size": {
+        "weight": {
+            "pounds": {
+                "$numberInt": "0"
+            }
+        },
+        "width": {
+            "$numberInt": "0"
+        },
+        "height": {
+            "$numberInt": "0"
+        },
+        "length": {
+            "$numberInt": "0"
+        }
+    },
+    "selectionImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1083516440891-tlx-glow-720x720.png",
+    "selectionImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1083516440948-tlx-glow-720x720@2x.png",
+    "selectionImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1083516440938-tlx-glow-720x720@4x.png",
+    "selectionImage": {
+        "image": "sCow92S7tycZoLrr6"
+    },
+    "productImage": {
+        "image": "eyi8pFWpjN38Nja7G"
+    },
+    "productImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221448234-1100176562342-tlx-500wat4x.png",
+    "productImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221448178-1100176562342-tlx-500wat4x@2x.png",
+    "productImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221448164-1100176562342-tlx-500wat4x@4x.png",
+    "productSelectNoGlow": {
+        "image": "6kpkeSw7adRxCMqqq"
+    },
+    "productSelectGlow": {
+        "image": "MsWvDgKCPv48KwvvF"
+    },
+    "productSelectNoGlow1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106303593164-tlx_main_noglow.png",
+    "productSelectGlow1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106303598524-tlx_main_glowy.png",
+    "productSize": {
+        "weight": {
+            "pounds": {
+                "$numberDouble": "5.8"
+            }
+        },
+        "width": {
+            "$numberDouble": "15.2"
+        },
+        "height": {
+            "$numberDouble": "1.2"
+        },
+        "length": {
+            "$numberDouble": "10.6"
+        }
+    },
+    "subSliderText": "5.8 pounds",
+    "productSelectNoGlowUrl": "https://falcon-configurator-dev.s3.amazonaws.com/1106405997648-tlx-no-glow-original.png",
+    "productSelectGlowUrl": "https://falcon-configurator-dev.s3.amazonaws.com/1106406002263-tlx-glow-original.png",
+    "learnMoreUrl": "https://www.falcon-nw.com/laptops/tlx/design"
+}
+    {
+    "_id": "otsNtD5JtdX2jJYzM",
+    "name": "Mach V",
+    "type": "desktop",
+    "slug": "mach-v",
+    "sliderText": "Our Most Expandable System",
+    "priority": {
+        "$numberInt": "1"
+    },
+    "startingPrice": {
+        "$numberInt": "2500"
+    },
+    "buildTime": {
+        "$numberInt": "12"
+    },
+    "shippingMethods": [
+        {
+            "method": "nAhuMvRN7PEojLdPY",
+            "cost": {
+                "$numberDouble": "122.74"
+            }
+        },
+        {
+            "method": "nriYHycjaxnQ7eYoM",
+            "cost": {
+                "$numberDouble": "154.47"
+            }
+        },
+        {
+            "method": "mWF8sCCGPTNXtveEQ",
+            "cost": {
+                "$numberInt": "123"
+            }
+        }
+    ],
+    "size": {
+        "weight": {
+            "pounds": {
+                "$numberInt": "11"
+            }
+        },
+        "width": {
+            "$numberInt": "20"
+        },
+        "height": {
+            "$numberInt": "12"
+        },
+        "length": {
+            "$numberInt": "7"
+        }
+    },
+    "configureImage": {
+        "image": "jEdKqSKbgW5imPDD9"
+    },
+    "selectionImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1078770823122-machv_hero-glow-720x720.jpg",
+    "selectionImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1078770823156-machv_hero-glow-720x720@2x.jpg",
+    "selectionImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1078770823175-machv_hero-glow-720x720@4x.jpg",
+    "productImage": {
+        "image": "SuaxKTLCxzQeYTyTs"
+    },
+    "productImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221046296-1100175449316-machvat4x.png",
+    "productImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221046329-1100175449316-machvat4x@2x.png",
+    "productImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1106221046323-1100175449316-machvat4x@4x.png",
+    "productSelectNoGlow": {
+        "image": "4gDDSkL8uC9FnwSnZ"
+    },
+    "productSelectGlow": {
+        "image": "29Hg2JempxYtyTKXs"
+    },
+    "productSelectNoGlow1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106303612873-machv_main_no-glow.png",
+    "productSelectGlow1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106303617226-machv_main_glowy.png",
+    "productSize": {
+        "weight": {
+            "pounds": {
+                "$numberInt": "0"
+            }
+        },
+        "width": {
+            "$numberDouble": "8.8"
+        },
+        "height": {
+            "$numberDouble": "24.1"
+        },
+        "length": {
+            "$numberDouble": "21.75"
+        }
+    },
+    "subSliderText": "Full-Tower",
+    "productSelectNoGlowUrl": "https://falcon-configurator-dev.s3.amazonaws.com/1106405932051-machv-no-glow-original.png",
+    "productSelectGlowUrl": "https://falcon-configurator-dev.s3.amazonaws.com/1106405937109-machv-glow-original.png",
+    "learnMoreUrl": "https://www.falcon-nw.com/desktops/mach-v/design"
+}
+    {
+    "_id": "qMSNtaQjC5tLwpj9g",
+    "name": "FragBox",
+    "type": "desktop",
+    "slug": "fragbox",
+    "sliderText": "Pint-Sized Powerhouse",
+    "priority": {
+        "$numberInt": "3"
+    },
+    "startingPrice": {
+        "$numberInt": "2000"
+    },
+    "buildTime": {
+        "$numberInt": "12"
+    },
+    "shippingMethods": [
+        {
+            "method": "mWF8sCCGPTNXtveEQ",
+            "cost": {
+                "$numberInt": "123"
+            }
+        },
+        {
+            "method": "nAhuMvRN7PEojLdPY",
+            "cost": {
+                "$numberInt": "234"
+            }
+        },
+        {
+            "method": "nriYHycjaxnQ7eYoM",
+            "cost": {
+                "$numberInt": "345"
+            }
+        }
+    ],
+    "size": {
+        "weight": {
+            "pounds": {
+                "$numberInt": "11"
+            }
+        },
+        "width": {
+            "$numberInt": "20"
+        },
+        "height": {
+            "$numberInt": "7"
+        },
+        "length": {
+            "$numberInt": "12"
+        }
+    },
+    "selectionImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1068249894517-fragbox_hero-glow-720x720.jpg",
+    "selectionImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1068249894685-fragbox_hero-glow-720x720@2x.jpg",
+    "selectionImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1068249894565-fragbox_hero-glow-720x720@4x.jpg",
+    "productImage": {
+        "image": "oAbKmWsmT9QLfGoKf"
+    },
+    "productImage1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106220969014-fragbox.png",
+    "productImage2x": "https://falcon-configurator-dev.s3.amazonaws.com/1106220969053-fragbox@2x.png",
+    "productImage4x": "https://falcon-configurator-dev.s3.amazonaws.com/1106220969048-fragbox@4x.png",
+    "productSelectNoGlow": {
+        "image": "Qg9HvJnYzQdrjNdhq"
+    },
+    "productSelectGlow": {
+        "image": "pLThLc66efrkLNDsC"
+    },
+    "productSelectNoGlow1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106303632932-fragbox_main_no-glow.png",
+    "productSelectGlow1x": "https://falcon-configurator-dev.s3.amazonaws.com/1106303759941-fragbox_main_glowy.png",
+    "productSize": {
+        "weight": {
+            "pounds": {
+                "$numberInt": "0"
+            }
+        },
+        "width": {
+            "$numberDouble": "10.5"
+        },
+        "height": {
+            "$numberDouble": "8.25"
+        },
+        "length": {
+            "$numberDouble": "15.75"
+        }
+    },
+    "subSliderText": "Small Form Factor",
+    "productSelectNoGlowUrl": "https://falcon-configurator-dev.s3.amazonaws.com/1106405905059-fragbox-no-glow-original.png",
+    "productSelectGlowUrl": "https://falcon-configurator-dev.s3.amazonaws.com/1106405910299-fragbox-glow-original.png",
+    "learnMoreUrl": "https://www.falcon-nw.com/desktops/fragbox/design"
+}
