@@ -1,0 +1,134 @@
+{
+    "_id": "3zBxkp2Avy3c7Wvf9",
+    "name": "Motherboard",
+    "slug": "motherboard"
+}
+{
+    "_id": "4vgyadwNw8mT5FNtC",
+    "name": "Expedited Build Service",
+    "slug": "expedited-build-service"
+}
+{
+    "_id": "8PBc5XKuq2wJp7E6C",
+    "name": "Drives",
+    "slug": "drives"
+}
+{
+    "_id": "8bRHhJzLzZjtgHeM5",
+    "name": "OLDPART",
+    "slug": "oldpart"
+}
+{
+    "_id": "A68q3gNCW87rD8vHD",
+    "name": "Memory",
+    "slug": "memory"
+}
+{
+    "_id": "BN3dR7GcDvzrQ9ttX",
+    "name": "Rescue Drive",
+    "slug": "rescue-drive"
+}
+{
+    "_id": "BbEFbhwWJ7wWRxWMy",
+    "name": "Exotix Paintwork",
+    "slug": "exotix-paintwork"
+}
+{
+    "_id": "BgPmMqMyPMcDbenLJ",
+    "name": "Mouse",
+    "slug": "mouse"
+}
+{
+    "_id": "DPB2JtTK6XRMT6ahx",
+    "name": "Backpack",
+    "slug": "carrying-case",
+    "addImage": {
+        "image": "wxtrqaNtcGB6EmRKM"
+    }
+}
+{
+    "_id": "Djg2dcnxZtRxYQfdt",
+    "name": "Display",
+    "slug": "display"
+}
+{
+    "_id": "EQrSmgpH6piRvstRF",
+    "name": "Optical Drive",
+    "slug": "optical-drive"
+}
+{
+    "_id": "EY2oKjhsiZwhZZWwy",
+    "name": "Warranty",
+    "slug": "warranty"
+}
+{
+    "_id": "L7JWQMivi4eLJRGQB",
+    "name": "Chipset",
+    "slug": "chipset"
+}
+{
+    "_id": "MzvAsrRyjpu2pkGde",
+    "name": "Processor",
+    "slug": "processor"
+}
+{
+    "_id": "RtKmD6NxQvwveQbtF",
+    "name": "Sound Card",
+    "slug": "Sound Card"
+}
+{
+    "_id": "cAfqHvXFpRdpEzayS",
+    "name": "Processor Cooler",
+    "slug": "processor-cooler"
+}
+{
+    "_id": "cEveB45iCmYEJRzk5",
+    "name": "Office Software",
+    "slug": "office-software",
+    "addImage": {
+        "image": "frm6NEsRRtMDHfQcs"
+    }
+}
+{
+    "_id": "doXaRccdWYzZrjfhC",
+    "name": "Speakers",
+    "slug": "speakers"
+}
+{
+    "_id": "h9E49SqQzNzHD3A94",
+    "name": "Chassis",
+    "slug": "chassis"
+}
+{
+    "_id": "hauHnQgSeLEpH6dKw",
+    "name": "Video Card",
+    "slug": "video-card",
+    "addImage": {
+        "image": "NAjMZr7G8quTPEtBz"
+    }
+}
+{
+    "_id": "kAmT4xWCn9mFjvNCM",
+    "name": "Monitor",
+    "slug": "monitor"
+}
+{
+    "_id": "mjih27JNW844KiHHr",
+    "name": "Keyboard",
+    "slug": "keyboard"
+}
+{
+    "_id": "scaSbomzJqWgvNteD",
+    "name": "64 Bit Operating System",
+    "slug": "64-bit-operating-system"
+}
+{
+    "_id": "u5kjRXHKLtKrqwyv2",
+    "name": "Ethernet",
+    "slug": "ethernet"
+}
+{
+    "_id": "yKkPuCPjQdmxPndEP",
+    "name": "Power Supply",
+    "slug": "power-supply"
+}

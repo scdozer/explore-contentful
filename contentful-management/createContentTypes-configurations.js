@@ -18,6 +18,12 @@ client.getSpace(process.env.CONTENTFUL_SPACE_ID)
       name: 'Admin Name',
       required: true,
       type: 'Symbol',
+      validations: [{
+          'size': {
+              'min': 0,
+              'max': 100
+          }
+      }]
     },
     {
       id: 'name',
